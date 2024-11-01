@@ -1,4 +1,4 @@
-package PERTMUAN_5.LATIHAN_7;
+package PERTEMUAN_5.LATIHAN_7;
 
 import javax.swing.*; 
 import javax.swing.table.DefaultTableModel; 

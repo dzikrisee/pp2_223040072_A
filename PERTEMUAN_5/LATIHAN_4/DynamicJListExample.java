@@ -1,4 +1,4 @@
-package PERTMUAN_5.LATIHAN_4;
+package PERTEMUAN_5.LATIHAN_4;
 
 import javax.swing.*; 
 import java.awt.event.ActionEvent; 

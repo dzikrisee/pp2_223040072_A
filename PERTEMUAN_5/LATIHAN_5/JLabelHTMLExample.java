@@ -1,4 +1,4 @@
-package PERTMUAN_5.LATIHAN_5;
+package PERTEMUAN_5.LATIHAN_5;
 
 import javax.swing.*; 
 

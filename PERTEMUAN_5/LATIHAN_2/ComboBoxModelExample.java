@@ -1,3 +1,4 @@
+package PERTEMUAN_5.LATIHAN_2;
 import javax.swing.*; 
 import java.awt.event.*; 
 

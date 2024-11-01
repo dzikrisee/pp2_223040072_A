@@ -1,4 +1,4 @@
-package PERTMUAN_5.LATIHAN_3;
+package PERTEMUAN_5.LATIHAN_3;
 
 import javax.swing.*; 
 import javax.swing.event.ListSelectionEvent; 
