@@ -1,5 +1,4 @@
 package PERTEMUAN_7.Membership.src.model;
-
 public class Member {
     private String id;
     private String nama;

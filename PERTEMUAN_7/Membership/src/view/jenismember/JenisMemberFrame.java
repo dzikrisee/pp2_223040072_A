@@ -1,7 +1,5 @@
 package PERTEMUAN_7.Membership.src.view.jenismember;
 
-
-
 import java.awt.event.*;
 import javax.swing.*;
 import javax.swing.table.*;

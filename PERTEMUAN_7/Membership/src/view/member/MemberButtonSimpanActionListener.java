@@ -1,6 +1,5 @@
 package PERTEMUAN_7.Membership.src.view.member;
 
-
 import java.awt.event.*;
 import java.util.UUID;
 import PERTEMUAN_7.Membership.src.model.*;

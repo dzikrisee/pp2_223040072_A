@@ -63,7 +63,7 @@ public class MainFrame extends JFrame {
         if(memberFrame == null){
             memberFrame = new MemberFrame(memberDao, jenisMemberDao);
         }
-        memberFrame.populateComboJenis();
+        memberFrame.populateComboJenis(); 
         memberFrame.setVisible(true);
     }
 
