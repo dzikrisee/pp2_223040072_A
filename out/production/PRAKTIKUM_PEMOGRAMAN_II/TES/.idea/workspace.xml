@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e911536-c883-4725-8a2b-051eb95851d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PERTEMUAN_9/PERTEMUAN_9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PERTEMUAN_9/out/production/PERTEMUAN_9/PERTEMUAN_9/PERTEMUAN_9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PRAKTIKUM_PEMOGRAMAN_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudiKasus4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudiKasus4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudiKasus4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudiKasus4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudiKasus4/StudiKasus4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/libs/asm-7.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/libs/cglib-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/libs/commons-logging-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/libs/javassist-3.30.2-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/libs/log4j-api-2.23.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/libs/mybatis-3.5.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/libs/mysql-connector-j-9.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/libs/ognl-3.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/libs/reload4j-1.2.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/libs/slf4j-api-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/dao/JenisMemberDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/dao/MemberDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/mapper/JenisMemberMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/mapper/MemberMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/model/JenisMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/model/Member.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/view/jenismember/JenisMemberButtonSimpanActionListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/view/jenismember/JenisMemberFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/view/jenismember/JenisMemberTableModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/view/jenismemberdetail/JenisMemberDetailFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/view/main/MainButtonActionListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/view/main/MainFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/view/member/MemberButtonSimpanActionListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/view/member/MemberFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/view/member/MemberTableModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PERTEMUAN_8/src/view/memberdetail/MemberDetailFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_1/HelloWorldSwing$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_1/HelloWorldSwing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_1/ButtonEventSwing$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_1/ButtonEventSwing$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_1/ButtonEventSwing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_2/HelloInput$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_2/HelloInput$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_2/HelloInput.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_3/HelloTextArea$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_3/HelloTextArea$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_3/HelloTextArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_4/MFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_5/HelloCheckBox$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_5/HelloCheckBox$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_5/HelloCheckBox$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_5/HelloCheckBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_6/HelloRadioButton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_6/HelloRadioButton$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_6/HelloRadioButton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_7/FormPendaftaran.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_2/LATIHAN_7_MODIFIKASI/FormPendaftaranMod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_1/HelloBorderLayout$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_1/HelloBorderLayout$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_1/HelloBorderLayout$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_1/HelloBorderLayout$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_1/HelloBorderLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_2/HelloGridLayout$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_2/HelloGridLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_3/HelloFlowLayout$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_3/HelloFlowLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_4/HelloGridBagLayout$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_4/HelloGridBagLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_3/LATIHAN_5/FormBiodata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_4/LATIHAN_1/ButtonExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_4/LATIHAN_1/ButtonExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_4/LATIHAN_2/KeyListenerExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_4/LATIHAN_2/KeyListenerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_4/LATIHAN_3/MouseListenerExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_4/LATIHAN_3/MouseListenerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_4/LATIHAN_4/WindowListenerExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_4/LATIHAN_4/WindowListenerExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_1/ComboBoxExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_2/ComboBoxModelExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_2/ComboBoxModelExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_3/JListExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_3/JListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_4/DynamicJListExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_4/DynamicJListExample$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_4/DynamicJListExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_5/JLabelHTMLExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_6/JTableExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_7/JTableEditableExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_7/JTableEditableExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_8/JTableAddRemoveRowExample$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_8/JTableAddRemoveRowExample$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_8/JTableAddRemoveRowExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_5/LATIHAN_9/JTableSortExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_6/TUGAS/AnggotaPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_6/TUGAS/BukuPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_6/TUGAS/LibraryManagement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_6/TUGAS/PeminjamanPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/libs/mysql-connector-j-9.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/dao/JenisMemberDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/dao/MemberDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/db/MySqlConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/model/JenisMember.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/model/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/view/jenismember/JenisMemberButtonSimpanActionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/view/jenismember/JenisMemberFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/view/jenismember/JenisMemberTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/view/main/MainButtonActionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/view/main/MainFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/view/main/MainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/view/member/MemberButtonSimpanActionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/view/member/MemberFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/Membership/src/view/member/MemberTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/TUGAS/libs/mysql-connector-j-9.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/TUGAS/src/dao/BookDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/TUGAS/src/dao/MemberDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/TUGAS/src/db/DatabaseConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/TUGAS/src/main/LibraryApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/TUGAS/src/model/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/TUGAS/src/model/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/TUGAS/src/view/BookPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/TUGAS/src/view/MainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_7/TUGAS/src/view/MemberPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_8/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_8/libs/asm-7.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_8/libs/cglib-3.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_8/libs/commons-logging-1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_8/libs/javassist-3.30.2-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_8/libs/log4j-api-2.23.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_8/libs/mybatis-3.5.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_8/libs/mysql-connector-j-9.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_8/libs/ognl-3.4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_8/libs/reload4j-1.2.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/PERTEMUAN_8/libs/slf4j-api-2.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/jenismember/JenisMemberButtonSimpanActionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/jenismember/JenisMemberFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/jenismember/JenisMemberFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/jenismember/JenisMemberTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/jenismemberdetail/JenisMemberDetailFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/jenismemberdetail/JenisMemberDetailFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/jenismemberdetail/JenisMemberDetailFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/main/MainButtonActionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/main/MainFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/member/MemberButtonSimpanActionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/member/MemberFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/member/MemberFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/member/MemberTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/memberdetail/MemberDetailFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/memberdetail/MemberDetailFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/view/memberdetail/MemberDetailFrame.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2qFiVHaTuJaN3C3XCRCy9nSP7zP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/KULIAH INFORMATIKA/PERKULIAHAN SEMESTER-5 2024/PRAKTIKUM PEMOGRAMAN II/PRAKTIKUM_PEMOGRAMAN_II/PERTEMUAN_9",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\KULIAH INFORMATIKA\PERKULIAHAN SEMESTER-5 2024\PRAKTIKUM PEMOGRAMAN II\PRAKTIKUM_PEMOGRAMAN_II\TES\.idea" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e911536-c883-4725-8a2b-051eb95851d3" name="Changes" comment="" />
+      <created>1734264746123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734264746123</updated>
+      <workItem from="1734264747312" duration="163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

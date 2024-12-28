@@ -4,6 +4,7 @@ import org.apache.ibatis.annotations.*;
 
 import java.util.List;
 
+@Mapper
 public interface DataMapper {
 
     @Insert("INSERT INTO inventory (name, category, price, quantity) VALUES (#{name}, #{category}, #{price}, #{quantity})")

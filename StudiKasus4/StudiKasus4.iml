@@ -124,5 +124,34 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/fontbox-2.0.32.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/openpdf-2.0.3.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/pdfbox-2.0.32.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/slf4j-api-2.0.12.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/slf4j-api-2.0.16.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/slf4j-api-2.0.16 (1).jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/slf4j-simple-2.0.16.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/openpdf-2.0.3-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="fontbox-2.0.32" level="project" />
+    <orderEntry type="library" exported="" name="libs" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../PERTEMUAN_7/Membership/libs/mysql-connector-j-9.1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="libs1" level="project" />
   </component>
 </module>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="fontbox-2.0.32">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/fontbox-2.0.32.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/openpdf-2.0.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/pdfbox-2.0.32.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/slf4j-api-2.0.12.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/slf4j-api-2.0.16.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/slf4j-api-2.0.16 (1).jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/slf4j-simple-2.0.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/LIBRARY JAVA/openpdf-2.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
